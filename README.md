@@ -1,6 +1,6 @@
 ## Movie-Tracker
 
-This Project makes asynchronous fetch calls in order to draw film data from [The Movie DB API](https://www.themoviedb.org/documentation/api "The Movie DB API") and post user account information to a back-end database. It utilizes the React-Redux library to create a diverse component layout as well as React-Router to establish dynamic routing. Additional tools include [classnames](https://www.npmjs.com/package/classnames "classnames") and [react-star-ratings](https://www.npmjs.com/package/react-star-ratings "react-star-ratings") node packages. This program was tested with the assistance of the Jest and Enzyme libraries and features SCSS for styling purposes.
+This Project makes asynchronous fetch calls in order to draw film data from [The Movie DB API](https://www.themoviedb.org/documentation/api "The Movie DB API") and post user account information to a back-end built in node.js and a postgres database. It utilizes the React-Redux library to create a diverse component layout as well as React-Router to establish dynamic routing. Additional tools include [classnames](https://www.npmjs.com/package/classnames "classnames") and [react-star-ratings](https://www.npmjs.com/package/react-star-ratings "react-star-ratings") node packages. This program was tested with the assistance of the Jest and Enzyme libraries and features SCSS for styling purposes.
 
 ### Collaborators
 
