@@ -25,6 +25,4 @@ From the home screeen a user may select "Sign up" to create a new account or "Lo
 
 ![on-page-load](src/Images/screen-login.png)  
 
-![on-page-load](src/Images/screen-user.png) 
-
 ![on-page-load](src/Images/screen-favorite.png)  
